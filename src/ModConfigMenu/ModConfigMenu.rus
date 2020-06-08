@@ -1,0 +1,13 @@
+[MCM_OptionsMenuListener]
+m_strModMenuButton="НАСТРОЙКИ МОДОВ"
+
+[MCM_OptionsScreen]
+m_strSaveAndExit="Сохр. и выйти"
+m_strCancel="Отмена"
+m_strTitle="Настройки модов"
+m_strSubtitle=""
+
+[MCM_SettingsPanel]
+m_strResetButton="Сброс"
+m_strRevertButton="Отменить"
+m_strApplyButton="Сохранить"

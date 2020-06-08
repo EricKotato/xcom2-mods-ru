@@ -17,3 +17,9 @@ Git (и как следствие, GitHub) не умеет работать с U
 2. Ищете нужный мод по ID пакета (можете использовать, к примеру, [Alternative Mod Launcher](https://github.com/X2CommunityCore/xcom2-launcher), чтобы быстро найти).
 3. Копируете файлы из него в папку с вашим модом.
 
+## Текущие переводы
+
+* `AllEquipmentsinSkirmish` – [Skirmish Mode+](https://steamcommunity.com/sharedfiles/filedetails/?id=1535761480)
+* `CinematicRapidFireW` – [[WOTC] Cinematic Rapid Fire (and other abilities)](https://steamcommunity.com/sharedfiles/filedetails/?id=1124794449)
+* `LEBPortrait` – [WOTC - Configurable Headshots](https://steamcommunity.com/sharedfiles/filedetails/?id=1273848330)
+* `ModConfigMenu` – [[WotC] Mod Config Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=667104300)
